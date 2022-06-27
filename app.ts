@@ -6,4 +6,4 @@ function add(number1: number , number2: number){
 let num1 = 5;
 let num2 = 3;
 
-console.log(add(5,3))
+console.log(add(num1,num2))
